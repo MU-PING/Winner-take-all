@@ -1,4 +1,4 @@
-# winner-take-all
+# Winner-take-all
 ## 程式簡介
 ### 使用說明：
 > 又稱 Winner Take All Learning Rule，透過視覺化界面展示其學習與聚類過程
